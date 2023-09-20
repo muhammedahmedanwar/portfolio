@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import "./header.css";
-import logo from '../../assets/Jimmyz-1.jpg'
+import logo from '../../assets/png16.png'
 
 const Header = () => {
     window.addEventListener("scroll", function(){
