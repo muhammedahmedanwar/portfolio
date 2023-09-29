@@ -10,7 +10,7 @@ const Works = () => {
 
     useEffect(()=>{
         if(item.name === 'all'){
-            setProjects([]);
+            setProjects(projectsData);
         }else{
             const newProjects = projectsData.filter((project)=>{
                 return project.category === item.name;
