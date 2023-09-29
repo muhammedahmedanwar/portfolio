@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <header className='header'>
         <nav className='nav container'>
-            <a href="index.html" className="nav___logo"><img src={logo} className='logo'/> JimmyZ</a>
+            <a href="index.html" className="nav___logo"><img src={logo} className='logo'/></a>
             <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
                 <ul className='nav__list grid'>
                     <li className="nav__item">
