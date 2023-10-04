@@ -8,6 +8,7 @@ import Work7 from "../../assets/work7.png";
 import Work8 from "../../assets/work8.png";
 import Work9 from "../../assets/ai.png";
 import Work10 from "../../assets/cars.png";
+import Work11 from "../../assets/pricewise.png";
 import udacity from "../../assets/web.pdf";
 
 export const projectsData = [
@@ -58,6 +59,13 @@ export const projectsData = [
     image: Work10,
     title: "GPT3",
     link: "https://rentcars-ten.vercel.app/",
+    category: "websites",
+  },
+  {
+    id: 11,
+    image: Work11,
+    title: "PriceWise",
+    link: "https://pricewise-o8u5zsc4a-muhammedahmedanwar.vercel.app/",
     category: "websites",
   },
   {
