@@ -57,7 +57,7 @@ export const projectsData = [
   {
     id: 10,
     image: Work10,
-    title: "GPT3",
+    title: "RentCArs",
     link: "https://rentcars-ten.vercel.app/",
     category: "websites",
   },
