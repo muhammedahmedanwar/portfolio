@@ -9,6 +9,8 @@ import Work8 from "../../assets/work8.png";
 import Work9 from "../../assets/ai.png";
 import Work10 from "../../assets/cars.png";
 import Work11 from "../../assets/pricewise.png";
+import work12 from "../../assets/house.png";
+import work13 from "../../assets/gym.png";
 import udacity from "../../assets/web.pdf";
 
 export const projectsData = [
@@ -55,10 +57,24 @@ export const projectsData = [
     category: "websites",
   },
   {
+    id: 12,
+    image: Work12,
+    title: "Real Estate",
+    link: "https://house-muhammedahmedanwar.vercel.app/",
+    category: "websites",
+  },
+  {
     id: 10,
     image: Work10,
     title: "RentCArs",
     link: "https://rentcars-ten.vercel.app/",
+    category: "websites",
+  },
+  {
+    id: 13,
+    image: Work13,
+    title: "Gym",
+    link: "https://online-gym-muhammedahmedanwar.vercel.app/",
     category: "websites",
   },
   {
