@@ -9,8 +9,8 @@ import Work8 from "../../assets/work8.png";
 import Work9 from "../../assets/ai.png";
 import Work10 from "../../assets/cars.png";
 import Work11 from "../../assets/pricewise.png";
-import work12 from "../../assets/house.png";
-import work13 from "../../assets/gym.png";
+import Work12 from "../../assets/house.png";
+import Work13 from "../../assets/gym.png";
 import udacity from "../../assets/web.pdf";
 
 export const projectsData = [
